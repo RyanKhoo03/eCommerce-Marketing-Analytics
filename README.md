@@ -29,6 +29,6 @@
 - Diversify revenue streams to reduce reliance on tournament-related fees during off season.
 
 ## Output
-[View Dashboard]([dashboard.pdf](https://github.com/RyanKhoo03/eCommerce-Marketing-Analytics/blob/main/eCommerce%20Marketing%20Analytics%20Project.pdf))
+[View Dashboard](https://github.com/RyanKhoo03/eCommerce-Marketing-Analytics/blob/main/eCommerce%20Marketing%20Analytics%20Project.pdf)
 
 
